@@ -8,4 +8,5 @@ Shopee provided 4 datasets, containing order information, device used by users, 
 Using network analysis from networkx library, we have easily achieve detected all the fraud activities in this dataset
 
 For report, please read Fraud detection report.pdf
+
 For codes, please read Fraud detection.py
