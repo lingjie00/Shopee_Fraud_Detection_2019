@@ -1,7 +1,7 @@
 # Shopee_Fraud_Detection_2019
 Solving Shopee's fraud detection 2019 in https://www.kaggle.com/c/ungrd-rd2-auo/overview
 
-Objective: detect fake orders where buyer and seller are either directly or indirectly linked
+***Objective: detect fake orders where buyer and seller are either directly or indirectly linked***
 
 Shopee provided 4 datasets, containing order information, device used by users, credit card used by users and bank account used by users. Our job is to find out the fake orders where buyer and seller are either directly or indirectly linked.
 
